@@ -1,7 +1,7 @@
 ---
 title: 我的第一篇文章
 published: 2026-06-07
-description: 这是文章的简短描述
+description: 搭建自己的博客~
 image: https://cdn.jsdelivr.net/gh/JuMoXia/blog-images/img/0aa460ac6aa59cad4236a835cbb93c4a.jpg
 tags: [开发]
 category: 开发
@@ -25,9 +25,6 @@ comment: true
 
 - 使用 `git clone` 将 fork 的仓库拉取到本地。
 - 删除 `content/posts/` 下所有原作者的文章（`.md`）。
-- 修改 `blog.config.ts`：标题、副标题、作者、头像、邮箱、域名、成立时间等。
-- 修改 `app.config.ts`：移除原作者社交链接、头像图标，替换为自己的信息。
-  等等 通过上述方法 清除掉作者的个人信息
 
 ## 2. 本地运行与依赖安装
 
