@@ -2,7 +2,7 @@
 title: 我的第一篇文章
 published: 2026-06-07
 description: 搭建自己的博客~
-image: https://cdn.jsdelivr.net/gh/JuMoXia/blog-images/img/0aa460ac6aa59cad4236a835cbb93c4a.jpg
+image: https://raw.githubusercontent.com/JuMoXia/JuMoXia-new-blog-images/master/img/be23e1b308f394951a0091f24748e258.jpg
 tags: [开发]
 category: 开发
 draft: false
@@ -25,6 +25,7 @@ comment: true
 
 - 使用 `git clone` 将 fork 的仓库拉取到本地。
 - 删除 `content/posts/` 下所有原作者的文章（`.md`）。
+- 等等
 
 ## 2. 本地运行与依赖安装
 
