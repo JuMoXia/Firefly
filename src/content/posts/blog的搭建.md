@@ -88,12 +88,13 @@ pnpm dev→ 访问 `http://localhost:3000` 确认博客可运行。
 
 ### 6.1  **创建**GitHub 公开仓库** `JuMoXia/blog-images`。
 ### 6.2  **生成**Personal Access Token（经典令牌，勾选 `repo`）。
+    生成Personal Access Token并复制
 ### 6.3  **安装** **PicGo**，配置 GitHub 图床：
    - 仓库名：`JuMoXia/blog-images`
    - 分支：`main`
    - Token：粘贴 Personal Access Token
    - 存储路径：`img/`
-   - 
+  
 ### 6.4 **测试**：拖拽图片，成功生成 CDN 链接。
 
 ### 6.5 **与 Typora 联动**：
