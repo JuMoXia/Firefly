@@ -2,7 +2,7 @@
 title: Claude Code的安装和使用~
 published: 2026-06-12
 description: 让我们学习Claude Code的安装与使用吧！
-image:<img src="https://raw.githubusercontent.com/JuMoXia/JuMoXia-new-blog-images/master/img/d9b0f20e25018b4a8eb3a4800bb08d8d.jpg"/>
+image: https://raw.githubusercontent.com/JuMoXia/JuMoXia-new-blog-images/master/img/d9b0f20e25018b4a8eb3a4800bb08d8d.jpg
 tags: [开发]
 category: 开发
 draft: false
